@@ -1,0 +1,9 @@
+# Site settings
+title: Flow Meter
+author:
+  name: Girish Joshi
+  email: girishjoshi135@gmail.com
+description: ""
+
+# Build settings
+remote_theme: jekyll/minima
